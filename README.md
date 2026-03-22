@@ -1,7 +1,7 @@
-<h1 align="center">stash — rice collection</h1>
+<h1 align="center">stash 🍚 — rice collection</h1>
  
 <p align="center">
-  <img src="assets/github/cover.jpg" width="800"/>
+  <img src="assets/github/cover.jpg" width="500"/>
 </p>
  
 <p align="center">
@@ -14,20 +14,20 @@
  
 > [!IMPORTANT]
 > Awesome WM config coming soon. More rices on the way.
- 
+
+
 ## Setup
- 
-```
-os       arch linux
-wm       awesome wm
-terminal wezterm
-editor   neovim + zed
-browser  zen
-fetch    fastfetch
-prompt   oh-my-posh
-comp     picom
-music    amberol
-```
+
++ **OS**      — arch linux
++ **WM**      — awesome wm
++ **Shell**   — zsh
++ **Term**    — wezterm
++ **Editor**  — neovim + zed
++ **Browser** — zen
++ **Fetch**   — fastfetch
++ **Prompt**  — oh-my-posh
++ **Comp**    — picom
++ **Music**   — spotify + amberol
  
 ## Rices
  
@@ -59,8 +59,10 @@ stash/                          ← main branch
 > [!NOTE]
 > All rices are free to use — just credit me. Found a bug or want something added? [open an issue](https://github.com/l0yst/stash/issues).
  
-&nbsp;
- 
 <p align="center">
-  <sub>🪨 l0yst · built on arch linux</sub>
+  <sub>✨ l0yst · built on arch linux</sub>
 </p>
+
+## License
+ 
+MIT — see [LICENSE](LICENSE)
