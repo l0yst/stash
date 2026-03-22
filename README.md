@@ -1,7 +1,7 @@
 <h1 align="center">stash 🍚 — rice collection</h1>
  
 <p align="center">
-  <img src="assets/github/cover.jpg" width="500"/>
+  <img src="assets/github/cover.jpg" width="300"/>
 </p>
  
 <p align="center">
