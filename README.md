@@ -31,24 +31,29 @@
 
 ## Rofi
 
-| <b>App Menu</b> | <b>Apps as Root</b> |
-| <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/apps.png" alt="app menu"> | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/appsasroot.png" alt="apps as root"> |
-| <b>Power Menu</b> | <b>Screenshoter</b> |
-| <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/power-menu.png" alt="power menu"> | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/screenshoter.png" alt="screenshoter"> |
-| <b>Emoji Picker</b> | <b>Clipboard</b> |
-| <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/emoji-picker.png" alt="emoji picker"> | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/clipboard.png" alt="clipboard"> |
+<table align="center"><tr>
+<td align="center"><b>App Menu</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/apps.png" alt="app menu"></td>
+<td align="center"><b>Apps as Root</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/appsasroot.png" alt="apps as root"></td>
+</tr><tr>
+<td align="center"><b>Power Menu</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/power-menu.png" alt="power menu"></td>
+<td align="center"><b>Screenshoter</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/screenshoter.png" alt="screenshoter"></td>
+</tr><tr>
+<td align="center"><b>Emoji Picker</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/emoji-picker.png" alt="emoji picker"></td>
+<td align="center"><b>Clipboard</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/clipboard.png" alt="clipboard"></td>
+</tr></table>
 
 &nbsp;
 
 ## Apps
 
-| <b>Spotify</b> |
-| <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/spotify.png" alt="spotify"> |
-| <b>GTK</b> |
-| <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/file-manager.png" alt="gtk"> |
-| <b>Terminal</b> |
-| <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/terminal.png" alt="terminal"> |
+<p align="center"><b>Spotify</b></p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/spotify.png" alt="spotify"></p>
 
+<p align="center"><b>GTK</b></p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/file-manager.png" alt="gtk"></p>
+
+<p align="center"><b>Terminal</b></p>
+<p align="center"><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/terminal.png" alt="terminal"></p>
 &nbsp;
 
 ## Keybinds
