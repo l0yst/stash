@@ -32,14 +32,14 @@
 ## Rofi
 
 <table align="center"><tr>
-<td align="center"><b>App Menu</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/apps.png" alt="app menu"></td>
-<td align="center"><b>Apps as Root</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/appsasroot.png" alt="apps as root"></td>
+<td align="center"><b>App Menu</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/apps.png" alt="app menu" width="400"></td>
+<td align="center"><b>Apps as Root</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/appsasroot.png" alt="apps as root" width="400"></td>
 </tr><tr>
-<td align="center"><b>Power Menu</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/power-menu.png" alt="power menu"></td>
-<td align="center"><b>Screenshoter</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/screenshoter.png" alt="screenshoter"></td>
+<td align="center"><b>Power Menu</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/power-menu.png" alt="power menu" width="400"></td>
+<td align="center"><b>Screenshoter</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/screenshoter.png" alt="screenshoter" width="400"></td>
 </tr><tr>
-<td align="center"><b>Emoji Picker</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/emoji-picker.png" alt="emoji picker"></td>
-<td align="center"><b>Clipboard</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/clipboard.png" alt="clipboard"></td>
+<td align="center"><b>Emoji Picker</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/emoji-picker.png" alt="emoji picker" width="400"></td>
+<td align="center"><b>Clipboard</b><br><img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/clipboard.png" alt="clipboard" width="400"></td>
 </tr></table>
 
 &nbsp;
