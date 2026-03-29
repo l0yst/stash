@@ -1,0 +1,23 @@
+* {
+    bg: #1c2023;
+    bg-raised: #252a2d;
+    bg-overlay: #2e3438;
+    bg-border: #3a4044;
+
+    text-dim: #505a61;
+    text-muted: #7a858e;
+    text-base: #c0c8cf;
+    text-bright: #dde2e6;
+
+    terracotta: #c4a98a;
+    sand: #c2bf88;
+    sage: #a8c292;
+    teal: #8fc2ad;
+    sky: #8bafc4;
+    lavender: #a699c4;
+    mauve: #c294b2;
+    rose: #c49494;
+
+    /* transparent */
+    none: #00000000;
+}

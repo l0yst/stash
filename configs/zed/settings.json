@@ -1,0 +1,48 @@
+{
+	"theme": "SlateDust",
+	"icon_theme": "Zed (Default)",
+	"buffer_font_family": "JetBrains Mono",
+	"ui_font_family": ".ZedSans",
+	"buffer_font_size": 15,
+	"ui_font_size": 16,
+	"vim_mode": true,
+	"buffer_font_features": { "calt": true },
+	"title_bar": { "show_sign_in": false, "show_branch_icon": true },
+	"project_panel": { "entry_spacing": "comfortable" },
+	"tab_size": 4,
+	"hard_tabs": true,
+	"git": { "inline_blame": { "enabled": true } },
+	"format_on_save": "on",
+	"auto_update": false,
+	"line_indicator_format": "long",
+	"collaboration_panel": { "button": false },
+	"toolbar": {
+		"breadcrumbs": true,
+		"quick_actions": true,
+	},
+	"session": {
+		"trust_all_worktrees": true,
+	},
+	"tabs": {
+		"file_icons": true,
+		"git_status": true,
+	},
+	"tab_bar": {
+		"show": true,
+		"show_nav_history_buttons": false,
+	},
+	"telemetry": {
+		"diagnostics": false,
+		"metrics": false,
+	},
+	"disable_ai": true,
+	"terminal": {
+		"font_size": 15.0,
+		"detect_venv": {
+			"on": {
+				"directories": [".venv", ".env", "env", "venv"],
+				"activate_script": "default",
+			},
+		},
+	},
+}

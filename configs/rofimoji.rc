@@ -1,0 +1,11 @@
+action = copy
+files = [emojis]
+skin-tone = ask
+max-recent = 5
+hidden-descriptions = True
+no-frecency = False
+selector = rofi
+clipboarder = xclip
+typer = xdotool
+selector-args = "-theme ~/.config/rofi/layout/emoji-picker.rasi"
+prompt = ""

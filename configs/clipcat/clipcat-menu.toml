@@ -1,0 +1,16 @@
+server_endpoint = "/run/user/1000/clipcat/grpc.sock"
+finder = "rofi"
+preview_length = 50
+grpc_max_message_size = 4194304
+
+[rofi]
+line_length = 200
+menu_length = 6
+menu_prompt = ""
+extra_arguments = ["-theme", "~/.config/rofi/layout/clipboard.rasi"]
+
+[log]
+emit_journald = false
+emit_stdout = false
+emit_stderr = false
+level = "WARN"

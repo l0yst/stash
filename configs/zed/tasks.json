@@ -1,0 +1,21 @@
+[
+	{
+		"label": "run python file",
+		"command": "python main.py",
+		"use_new_terminal": false,
+		"allow_concurrent_runs": false,
+		"reveal": "always",
+		"show_command": true,
+		"show_summary": true
+	},
+	{
+		"label": "run current python file",
+		"command": "python",
+		"args": ["$ZED_FILE"],
+		"use_new_terminal": false,
+		"allow_concurrent_runs": false,
+		"reveal": "always",
+		"show_command": true,
+		"show_summary": true
+	}
+]

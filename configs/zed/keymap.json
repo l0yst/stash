@@ -1,0 +1,24 @@
+[
+	{
+		"context": "Workspace",
+		"bindings": {
+			"alt-shift-r": ["task::Spawn", { "task_name": "run python file" }],
+			"alt-shift-t": [
+				"task::Spawn",
+				{ "task_name": "run current python file" }
+			]
+		}
+	},
+	{
+		"context": "Editor && vim_mode == insert",
+		"bindings": {
+			// "j k": "vim::NormalBefore"
+		}
+	},
+ {
+  "context": "(VimControl && !menu)",
+  "bindings": {
+   "g n": "vim::SelectNextMatch"
+  }
+ }
+]

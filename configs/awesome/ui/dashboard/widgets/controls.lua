@@ -122,7 +122,7 @@ local gamemode_on = false
 helpers.onClick(game_btn, 1, function()
 	gamemode_on = not gamemode_on
 	local mode = gamemode_on and "on" or "off"
-	awful.spawn.with_shell("sudo /home/loyst/monoset/scripts/ultimate-mode.sh " .. mode)
+	awful.spawn.with_shell("sudo ~/stash/scripts/ultimate-mode.sh " .. mode)
 	game_set(gamemode_on)
 end)
 

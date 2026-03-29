@@ -1,0 +1,147 @@
+@import "../colors.rasi"
+
+configuration {
+    show-icons: false;
+    font:       "icomoon-feather 22";
+    cycle:      false;
+}
+
+* {
+    background-color: @bg-raised;
+    text-color:       @text-base;
+    border:           0px;
+    margin:           0px;
+    padding:          0px;
+    spacing:          0px;
+}
+
+window {
+    background-color: @bg-raised;
+    border:           1px solid;
+    border-color:     @bg-border;
+    border-radius:    12px;
+    width:            320px;
+    height:           425px;
+    location:         center;
+    cursor:           "default";
+}
+
+mainbox {
+    background-color: transparent;
+    spacing:          0px;
+    children:         [ "header", "listview", "footer" ];
+}
+
+header {
+    background-color: @bg-overlay;
+    border-radius:    12px 12px 0px 0px;
+    border:           0px 0px 1px 0px solid;
+    border-color:     @bg-border;
+    padding:          30px 0px 0px 0px;
+    spacing:          10px;
+    orientation:      vertical;
+    children:         [ "textbox-avatar", "textbox-user", "textbox-bye" ];
+}
+
+textbox-avatar {
+    str:              "󰅜";
+    font:             "Symbols Nerd Font 50";
+    text-color:       @terracotta;
+    background-color: transparent;
+    horizontal-align: 0.5;
+    vertical-align:   0.5;
+    expand: false;
+}
+
+textbox-user {
+    str:              "Exit";
+    font:             "DM Sans Bold 20";
+    text-color:       @text-bright;
+    background-color: transparent;
+    horizontal-align: 0.5;
+    vertical-align:   0.5;
+    expand: false;
+}
+
+textbox-bye {
+    str:              "Goodbye loyst · See you soon!";
+    font:             "JetBrains Mono Light 9";
+    text-color:       @text-dim;
+    background-color: transparent;
+    horizontal-align: 0.5;
+    vertical-align:   0.5;
+    expand: false;
+}
+
+listview {
+    background-color: transparent;
+    padding:          8px;
+    spacing:          6px;
+    columns:          3;
+    lines:            2;
+    scrollbar:        false;
+    fixed-height:     true;
+    fixed-columns:    true;
+    cursor:           "default";
+}
+
+element {
+    background-color: @bg-overlay;
+    border:           1px solid;
+    border-color:     @bg-border;
+    border-radius:    8px;
+    padding:          22px 10px;
+    cursor:           pointer;
+    children:         [ "element-text" ];
+}
+
+element normal.normal {
+    background-color: @bg-overlay;
+    text-color:       @text-base;
+}
+
+element normal.urgent {
+    background-color: @bg-overlay;
+    text-color:       @terracotta;
+}
+
+element selected.normal {
+    background-color: @bg-border;
+    border-color:     @terracotta;
+    text-color:       @text-base;
+}
+
+element selected.urgent {
+    background-color: @bg-border;
+    border-color:     @terracotta;
+    text-color:       @terracotta;
+}
+
+element-text {
+    text-color:       inherit;
+    background-color: transparent;
+    horizontal-align: 0.5;
+    vertical-align:   0.5;
+    font:             "icomoon-feather 22";
+    expand:           true;
+}
+
+footer {
+    background-color: @bg-overlay;
+    border:           1px 0px 0px 0px solid;
+    border-color:     @bg-border;
+    border-radius:    0px 0px 12px 12px;
+    padding:          10px 14px;
+    expand:           false;
+    children:         [ "textbox-footer" ];
+}
+
+textbox-footer {
+    text-color:       @text-dim;
+    background-color: transparent;
+    font:             "JetBrains Mono Light 9";
+    horizontal-align: 0.5;
+    vertical-align:   0.5;
+    str:              "↵ confirm     esc cancel";
+    expand:           true;
+}
