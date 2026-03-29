@@ -32,13 +32,10 @@
 ## Rofi
 
 | <b>App Menu</b> | <b>Apps as Root</b> |
-| --- | --- |
 | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/apps.png" alt="app menu"> | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/appsasroot.png" alt="apps as root"> |
 | <b>Power Menu</b> | <b>Screenshoter</b> |
-| --- | --- |
 | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/power-menu.png" alt="power menu"> | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/screenshoter.png" alt="screenshoter"> |
 | <b>Emoji Picker</b> | <b>Clipboard</b> |
-| --- | --- |
 | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/emoji-picker.png" alt="emoji picker"> | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/clipboard.png" alt="clipboard"> |
 
 &nbsp;
@@ -46,13 +43,10 @@
 ## Apps
 
 | <b>Spotify</b> |
-| --- |
 | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/spotify.png" alt="spotify"> |
 | <b>GTK</b> |
-| --- |
 | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/file-manager.png" alt="gtk"> |
 | <b>Terminal</b> |
-| --- |
 | <img src="https://raw.githubusercontent.com/l0yst/stash/main/assets/github/slatedust/terminal.png" alt="terminal"> |
 
 &nbsp;
