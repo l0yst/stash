@@ -33,7 +33,7 @@
  
 | <b>SlateDust — AwesomeWM</b> |
 | --- |
-| <a href="https://github.com/l0yst/stash/tree/slatedust"><img src="assets/github/slatedust.png" alt="slatedust"></a> |
+| <a href="https://github.com/l0yst/stash/tree/slatedust"><img src="assets/github/slatedust/main.png" alt="slatedust"></a> |
  
 ## Structure
  
